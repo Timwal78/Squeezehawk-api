@@ -1,0 +1,13 @@
+{
+  "name": "Squeezehawk-api",
+  "description": "Squeezehawk API for squeeze pattern detection",
+  "owner": "ScriptMasterLabs",
+  "github": "https://github.com/timwal78/Squeezehawk-api",
+  "contact": "scriptmasterlabs@gmail.com",
+  "sovereign": {
+    "noMockData": true,
+    "liveDataOnly": true,
+    "noTelemetry": true,
+    "enforcedBy": ".github/workflows/sovereign-data-check.yml"
+  }
+}
